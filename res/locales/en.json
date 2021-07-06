@@ -1,0 +1,190 @@
+{
+  "app_name": "UnivAgenda",
+
+  "drawer": "Navigation menu",
+
+  "settings": "Settings",
+  "settings_general": "General",
+  "settings_display": "Display",
+  "settings_colors": "Colors",
+
+  "element": "Element {number}",
+  "number_week": "Weeks to display",
+  "number_week_desc_one": "{nbWeeks} week",
+  "number_week_desc_plural": "{nbWeeks} weeks",
+  "days_before": "Show completed events?",
+  "days_before_desc": "Events already completed will not be displayed",
+  "display_all_days": "Display all days",
+  "display_all_days_desc": "Show every day of the week",
+  "hidden_event": "Hidden events",
+  "full_hidden_event_desc": "Totally hide these events",
+  "manage_hidden_event": "Manage hidden events",
+  "manage_hidden_event_desc": "Delete filter(s) used to hide events",
+
+  "dark_theme": "Dark theme",
+  "dark_theme_desc": "App background will be darker",
+  "primary_color": "Primary color",
+  "primary_color_desc": "Choose the appbar color",
+  "accent_color": "Secondary color",
+  "accent_color_desc": "Color of buttons and some texts",
+  "note_color": "Note indicator color",
+  "note_color_desc": "Color of indicator if a note is present",
+  "generate_event_color": "Colored events",
+  "generate_event_color_text": "All event will have a color",
+
+  "about": "About",
+  "introduction": "Introduction",
+  "help_feedback": "Help & Feedback",
+  "supportme": "Support me",
+  "logout": "Logout",
+  "logout_confirm": "Are you really sure you want to disconnect?",
+
+  "add_event": "Add event",
+  "edit_event": "Edit event",
+  
+  "cancel": "Cancel",
+  "save": "Save",
+  "submit": "Submit",
+  "add": "Add",
+  "delete": "Delete",
+  "edit": "Edit",
+  "rename": "Rename",
+  "change": "Change",
+  "refresh": "Refresh",
+  "refresh_agendas": "Refresh calendars",
+  "send_feedback": "Send feedback",
+
+  "what_is_it": "What is it?",
+  "about_what": "This app allow you to have direct access to your calendar on your device without having to connect to your ENT.",
+  "author": "Author",
+  "developer": "Developer",
+  "rights": "Rights helper",
+  "social": "Social",
+  "add_note_store": "Please note the app on the store.",
+  "github_project": "GitHub Project",
+  "github_project_desc": "Visit the GitHub Project",
+  "twitter_desc": "Ask your questions on Twitter.",
+  "other": "Other",
+  "changelog": "Changelog",
+  "changelog_desc": "See the changelog of the app",
+  "opensource_licences": "Licenses",
+  "opensource_licences_desc": "Licenses details for open softwares",
+  "version": "Version",
+  "made_with": "Made with",
+
+  "skip": "Skip",
+  "next": "Next",
+  "done": "Got it",
+
+  "intro_welcome_title": "Welcome !",
+  "intro_welcome_desc": "UnivAgenda allows you to access to your calendar of your University, directly on your device!",
+
+  "intro_customization_title": "Personalization",
+  "intro_customization_desc": "Choose light or dark theme but also the colors of the app! Make it unique with 35 720 combinations.",
+
+  "intro_note_title": "Note",
+  "intro_note_desc": "You can add notes on a course. An indicator will appear on the side, it is also customizable in the settings.",
+
+  "intro_event_title": "Custom event",
+  "intro_event_desc": "You can add your own event to the calendar and give it a special color. For example: An appointment with a teacher.",
+
+  "course_test": "Examination",
+  "course_details": "Course details",
+
+  "notes": "Notes",
+  "add_note": "New note",
+  "add_note_placeholder": "Enter the note",
+  "add_note_empty": "Note can't be empty.",
+  "add_note_submit": "Add Note",
+  "add_note_btn": "+ Note",
+
+  "event_repeat": "Recurrent event",
+  "event_color": "Event color",
+  "event_color_desc": "Background color of this event",
+
+  "title_event": "Title",
+  "desc_event": "Description",
+  "location_event": "Location",
+  "date_event": "Date",
+  "start_time_event": "Start time",
+  "end_time_event": "End time",
+
+  "require_field": "You must fill the text field.",
+
+  "error_end_time": "Error time selected",
+  "error_end_time_text": "The end time must be after the start time. Note that UnivAgenda does not yet support multi-day events.",
+
+  "confirm_event_delete": "Delete this event ?",
+  "confirm_event_delete_text": "By deleting this event, you will can't get it back.",
+
+  "ok": "Ok",
+  "search": "Search",
+  "yes": "Yes",
+  "no": "No",
+  "or": "Or",
+
+  "courses_noresult": "No course to display",
+  "courses_noresult_text": "Try to edit number of weeks in settings.",
+
+  "help_noresult": "No data",
+  "help_noresult_text": " Check your internet connection.\nIt's also possible that the server is down.",
+
+  "network_error": "Network error! Check your internet connection.",
+  "unknown_error": "Unknown error...",
+  "retry": "Retry",
+
+  "no_email_app": "No email client :/\nPlease install email app like Gmail.",
+
+  "change_agenda": "Change agenda ?",
+  "change_agenda_text": "Do you want to change your actual agenda ?",
+
+  "in_progress": "In progress",
+  "loading": "Loading...",
+
+  "supportme_text": "You love UnivAgenda and you want to reward and support all the work done to achieve and maintain the application?\n\nYou can donate with PayPal, the amount of your choice.\n\nThank you so much !",
+  "supportme_paypal": "Paypal donation",
+  "supportme_link_error": "Can not open the {site} website...\nLink: ",
+
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+
+  "no_events": "No events.",
+
+  "error": "Error",
+  "error_event_recurrent_zero": "You select recurrent event but there is no day selected!",
+  "error_json_parse": "Error processing JSON, contact us to solve the problem!",
+
+  "data_privacy": "Data & privacy",
+  "data_privacy_text": "UnivAgenda uses the services offered by Universities in a transparent way, no confidential data are stored or recovered by someone.\n\nOnly preference data is stored on your device (such as university, campus, group, chosen colors, events or added notes) so you can return them to the next launch of the application or offline mode.",
+
+  "url_ics": "Exported calendar url (ics)",
+  "wrong_ics_format": "The .ics file has an incorrect format !",
+  
+  "custom_event_exit_unsaved": "Are you sure ?",
+  "custom_event_exit_unsaved_text": "You have not saved your changes, they will be lost!",
+
+  "hide": "Hide",
+  "unhide": "Unhide",
+  "hide_event": "Hide event",
+  "hide_event_text": "Are you sure you want to hide this event and all others with the same title?",
+  "unhide_event": "Set the event visible",
+  "unhide_event_text": "Are you sure you want to set visible this event and all others with the same title?",
+  "no_hidden_event": "No filter",
+  "no_hidden_event_text": "There is no added filter to hide events.\nYou can hide an event from the event's page or directly here.",
+  "add_hidden_event": "Title of the event",
+
+  "new_event_title": "New event title (empty to reset)",
+  "rename_event": "Rename the event",
+
+  "sync_calendar": "Synchronize with calendar",
+  "choose_calendar": "Which calendar?",
+  "get_calendars_failed": "Can not retrieve the list of your calendars!"
+}

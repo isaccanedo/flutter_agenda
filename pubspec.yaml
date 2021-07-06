@@ -1,0 +1,68 @@
+name: univagenda
+description: Application pour voir son agenda universitaire à tout moment et facilement.
+version: 4.4.0+20200908
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  http: 0.12.2
+  shared_preferences: 0.5.10
+  path_provider: 1.6.14
+  url_launcher: 5.5.2
+  flutter_markdown: 0.4.4
+  uuid: 2.2.2
+  html: 0.14.0+3
+  firebase_analytics: 6.0.0
+  firebase_crashlytics: 0.1.4+1
+  package_info: 0.4.3
+  after_layout: 1.0.7+2
+  flutter_calendar:
+    git: git://github.com/Pyozer/flutter_calendar
+  device_calendar: 3.1.0
+
+  flutter_material_color_picker: 1.0.5
+  introduction_screen: 1.0.9
+  flutter_rounded_date_picker:
+    git: git://github.com/Pyozer/flutter_rounded_date_picker
+
+  outline_material_icons: 0.1.1
+  timezone: 0.5.7
+  flutter_native_timezone: 1.0.4
+  qrcode_reader: 0.4.4
+  
+dev_dependencies:
+  flutter_launcher_icons: 0.7.5
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - res/images/
+    - res/locales/
+    - packages/timezone/data/2020a_all.tzf
+
+  fonts:
+     - family: GoogleSans
+       fonts:
+          - asset: res/fonts/GoogleSans-Regular.ttf
+            style: normal
+            weight: 500
+
+          - asset: res/fonts/GoogleSans-Medium.ttf
+            style: normal
+            weight: 600
+
+          - asset: res/fonts/GoogleSans-Bold.ttf
+            style: normal
+            weight: 700
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path_android: "res/images/icon_circle.png"
+  image_path_ios: "res/images/icon_ios.png"
+  adaptive_icon_background: "#FFFF0000"
+  adaptive_icon_foreground: "res/images/icon_foreground.png"
