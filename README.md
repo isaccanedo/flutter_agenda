@@ -23,11 +23,3 @@ Vous pouvez aussi **personnaliser entièrement l'application** en choisissant la
 ## Screenshots
 
 <img title="Login page" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/login.webp" width="300" />
-<img title="Home vertical" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/home_month.webp" width="300" />
-<img title="Home horizontal" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/home_vertical.webp" width="300" />
-<img title="Home dark theme" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/home_horizontal_dark_colored.webp" width="300" />
-<img title="Add custom event" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/add_event.webp" width="300" />
-<img title="Event" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/event.webp" width="300" />
-<img title="Find schedule" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/search_room.webp" width="300" />
-<img title="Find schedule filter" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/find_select.png" width="300" />
-<img title="Find schedule results" src="https://raw.githubusercontent.com/Pyozer/UnivAgenda/master/demo/search_room_results.webp" width="300" />
