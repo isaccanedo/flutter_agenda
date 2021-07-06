@@ -3,8 +3,6 @@
 Application pour voir son agenda universitaire grâce au lien d'exportation de votre ENT. Peut être utiliser via un lien vers un fichier ICS en générale (pas uniquement d'une université).
 Elle est disponible pour **Android** et **iOS**.
 
-<a href='https://play.google.com/store/apps/details?id=com.pyozer.myagenda&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="65"/></a>
-
 <a href="https://apps.apple.com/fr/app/univagenda/id1451418056?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-gb/badge-lrg.svg?releaseDate=2019-04-28&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ## Fonctionnement de l'application
